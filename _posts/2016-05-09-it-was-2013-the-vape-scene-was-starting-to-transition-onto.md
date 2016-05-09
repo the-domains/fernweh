@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'It was 2013. The vape scene was starting to transition onto social media platforms from the forum worlds starting with the great Facebook migration of 2013. Vape shops were few and far between and group buys were outrageously popular. The thing about group buys was that they only existed for items produced in China. The concept of group buys for authentic products was nonexistent, let alone high end items. In fact liquid manufacturers did not offer their liquids through group buys. '
-datePublished: '2016-05-09T01:21:22.167Z'
-dateModified: '2016-05-09T01:18:44.350Z'
+datePublished: '2016-05-09T01:24:56.280Z'
+dateModified: '2016-05-09T01:23:46.490Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-it-was-2013-the-vape-scene-was-starting-to-transition-onto.md
