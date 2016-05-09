@@ -4,21 +4,21 @@
         <description><![CDATA[Fernweh Mods]]></description>
         <link>https://thegrid.ai/fernweh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 01:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2016 01:15:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fernweh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe8161eb-87b4-4243-bba5-947f7d2762a4.png">]]></description>
+            <link>https://thegrid.ai/fernweh/it-was-2013-the-vape-scene-was-starting-to-transition-onto/index.html</link>
+            <guid isPermaLink="false">d24df988-380f-49f5-9464-4b18e84d48db</guid>
+            <pubDate>Mon, 09 May 2016 01:15:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca44953f-3533-4407-99be-1f57fffbb152.jpg">]]></description>
             <link>https://thegrid.ai/fernweh/d4ffee01-32a1-4adb-a642-0e0b47597a5f/index.html</link>
             <guid isPermaLink="false">d4ffee01-32a1-4adb-a642-0e0b47597a5f</guid>
             <pubDate>Mon, 09 May 2016 01:14:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>It was 2013. The vape scene was starting to transition onto social media platforms from the forum worlds starting with the great Facebook migration of 2013. Vape shops were few and far between and group buys were outrageously popular. The thing about group buys was that they only existed for items produced in China. The concept of group buys for authentic products was nonexistent, let alone high end items. In fact liquid manufacturers did not offer their liquids through group buys. </p>]]></description>
-            <link>https://thegrid.ai/fernweh/it-was-2013-the-vape-scene-was-starting-to-transition-onto/index.html</link>
-            <guid isPermaLink="false">d24df988-380f-49f5-9464-4b18e84d48db</guid>
-            <pubDate>Mon, 09 May 2016 01:05:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
