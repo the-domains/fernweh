@@ -5,22 +5,24 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'It was 2013. The vape scene was starting to transition onto social media platforms from the forum worlds starting with the great Facebook migration of 2013. Vape shops were few and far between and group buys were outrageously popular. The thing about group buys was that they only existed for items produced in China. The concept of group buys for authentic products was nonexistent, let alone high end items. In fact liquid manufacturers did not offer their liquids through group buys. '
-datePublished: '2016-05-09T01:05:04.505Z'
-dateModified: '2016-05-09T01:05:04.219Z'
+datePublished: '2016-05-09T01:15:11.366Z'
+dateModified: '2016-05-09T01:14:43.846Z'
+title: ''
+author: []
+sourcePath: _posts/2016-05-09-it-was-2013-the-vape-scene-was-starting-to-transition-onto.md
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: ''
-author: []
-starred: false
-sourcePath: _posts/2016-05-09-it-was-2013-the-vape-scene-was-starting-to-transition-onto.md
+starred: true
 url: it-was-2013-the-vape-scene-was-starting-to-transition-onto/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fe8161eb-87b4-4243-bba5-947f7d2762a4.png)
+
 It was 2013\. The vape scene was starting to transition onto social media platforms from the forum worlds starting with the great Facebook migration of 2013\. Vape shops were few and far between and group buys were outrageously popular. The thing about group buys was that they only existed for items produced in China. The concept of group buys for authentic products was nonexistent, let alone high end items. In fact liquid manufacturers did not offer their liquids through group buys. 
 
 Near the end of the year two men met in the depths of the Facebook Vape scene. Dan Brown and Ken Rivera. Dan had a vision and was determined to find a way to bring authentic items to the people at group buy pricing. Ken understood the logistics of making it happen with the work ethic to lead the charge. Together they (with a handful of friends knowns as the "Nguyens") built one of the fastest growing and biggest groups on Facebook for buying, selling, and trading vape gear, VTGB. Mostly disbanded today, VTGB was home to the birth of authentic group buys and liquid group buys. Some of the biggest names in vaping today once called VTGB home. 
