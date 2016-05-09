@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fernweh]]></title>
+        <description><![CDATA[Fernweh]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 01:05:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>It was 2013. The vape scene was starting to transition onto social media platforms from the forum worlds starting with the great Facebook migration of 2013. Vape shops were few and far between and group buys were outrageously popular. The thing about group buys was that they only existed for items produced in China. The concept of group buys for authentic products was nonexistent, let alone high end items. In fact liquid manufacturers did not offer their liquids through group buys. </p>]]></description>
+            <link>undefinedit-was-2013-the-vape-scene-was-starting-to-transition-onto/index.html</link>
+            <guid isPermaLink="false">d24df988-380f-49f5-9464-4b18e84d48db</guid>
+            <pubDate>Mon, 09 May 2016 01:05:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
